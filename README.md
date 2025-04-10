@@ -1,5 +1,6 @@
-Personal Expense Analyzer
-Personal Expense Analyzer is a simple and interactive web application built using Python and Streamlit. It helps users track their monthly expenses, analyze spending habits, and receive personalized saving tips.
+
+## Personal Expense Analyzer 
+is a simple and interactive web application built using Python and Streamlit. It helps users track their monthly expenses, analyze spending habits, and receive personalized saving tips.
 
 🔍 Features
 Input and categorize monthly expenses
