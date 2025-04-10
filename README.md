@@ -21,3 +21,5 @@ Streamlit
 Pandas (for data handling)
 
 Matplotlib/Plotly (for visualizations)
+
+live Link - http://192.168.1.38:8501
